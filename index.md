@@ -28,7 +28,7 @@ Syntax highlighted code block
 [link to tutuorial!](https://guides.github.com/features/mastering-markdown/) and ![images](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](http://guides.github.com/features/mastering-markdown).
 
 ### Jekyll Themes
 
