@@ -25,10 +25,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[link to tutuorial!](https://guides.github.com/features/mastering-markdown/) and ![images](src)
+[link to tutuorial!](http://guides.github.com/features/mastering-markdown) and ![images](src)
 ```
 
-For more details see [GitHub Flavored Markdown](http://guides.github.com/features/mastering-markdown).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
