@@ -24,7 +24,7 @@ Syntax highlighted code block
 3,'Code'
 
 **Bold** and _Italic_ and `Code` text
-
+```
 [link to tutuorial!](https://guides.github.com/features/mastering-markdown/) and ![images](src)
 ```
 
