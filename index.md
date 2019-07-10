@@ -1,9 +1,4 @@
-## This is Bozeng Tang. why it is not work? OK, this one works.
-OK, this is public, i know it now.
-
-You can use the [editor on GitHub](https://github.com/tangbozeng/tangbozeng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-# alright, it is good.
-
+## Dr. Bozeng Tang.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
